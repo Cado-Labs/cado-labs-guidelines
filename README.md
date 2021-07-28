@@ -125,4 +125,5 @@ Follow [KeepChangelog 1.0.0](http://keepachangelog.com/en/1.0.0/) standard.
 
 (In active development)
 
-<img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_promo_logo_white.png" alt="Cado Labs" />
+<img src="<img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_promo_logo_white.svg" alt="Cado Labs" />
+" alt="Cado Labs" />
