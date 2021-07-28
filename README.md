@@ -112,6 +112,7 @@ Use [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflo
 Follow [Semver 2.0.0](https://semver.org) standard.
 - [npm semver tutorial](https://docs.npmjs.com/getting-started/semantic-versioning)
 - [ruby-gems semver tutorial](http://guides.rubygems.org/patterns/#semantic-versioning)
+- [php-composer semver tutorial](https://getcomposer.org/doc/articles/versions.md)
 
 ### Changelog
 
