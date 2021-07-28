@@ -1,4 +1,8 @@
-# CadoLabs guidelines
+# CadoLabs guidelines &middot; [![Supporting](https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_badge.png)](https://github.com/Cado-Labs/)
+
+<img src="https://github.com/Cado-Labs/cado-labs-resources/blob/main/cado_labs_supporting.svg" alt="Supported by Cado Labs" />
+
+---
 
 This manual describes the style and minimal requirements of maintaining and supporting the CadoLabs's github repositories.
 
